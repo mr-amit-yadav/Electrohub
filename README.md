@@ -1,4 +1,4 @@
-# 🛒 ElectroHub — Power BI Sales Analytics Dashboard
+# 🛒 ElectroHub - Power BI Sales Analytics Dashboard
 
 A comprehensive retail sales analytics dashboard built in Power BI for **ElectroHub**, a multi-category store selling Electronics, Footwear, Clothing, Home Appliances, Accessories, Kitchenware, Bags, and Personal Care products.
 
@@ -27,19 +27,19 @@ ElectroHub/
 
 ## 🖼️ Screenshots
 
-### Page 1 — Overview
+### Page 1 - Overview
 ![Overview](screenshots/Overview.png)
 
-### Page 2 — Top/Bottom 5 Analysis
+### Page 2 - Top/Bottom 5 Analysis
 ![Top Bottom 5](screenshots/Top%20Bottom%205.png)
 
-### Page 3 — Comparison (Sales / Profit / Quantity)
+### Page 3 - Comparison (Sales / Profit / Quantity)
 ![Comparison](screenshots/Comparison.png)
 
-### Page 4 — Edit Interactions (Period Comparison)
+### Page 4 - Edit Interactions (Period Comparison)
 ![Edit Interactions](screenshots/Period%20Comparison.png)
 
-### Page 5 — Table Visual (Fact Table Detail)
+### Page 5 - Table Visual (Fact Table Detail)
 ![Table Visual](screenshots/Table%20Visual.png)
 
 ---
@@ -64,26 +64,26 @@ ElectroHub/
 
 ## 📊 Dashboard Pages & Visuals
 
-### Page 1 — Overview
+### Page 1 - Overview
 - Executive-level summary of the entire store's performance
 - Key KPIs: Total Sales, Total Profit, Total Orders, Net Sales, Avg Discount
 - High-level snapshot designed for quick decision-making
 
-### Page 2 — Top/Bottom 5 Analysis
+### Page 2 - Top/Bottom 5 Analysis
 - **Top & Bottom 5 Products** ranked by Sales, Profit, and Quantity Sold
 - Identify best-sellers and underperformers across all 8 product categories
 - Helps prioritize inventory, marketing, and promotional focus
 
-### Page 3 — Comparison (Sales / Profit / Quantity)
+### Page 3 - Comparison (Sales / Profit / Quantity)
 - Side-by-side comparison of Sales, Profit, and Quantity Sold across products, categories, or time periods
 - Visualizes relationships and performance gaps between metrics
 
-### Page 4 — Edit Interactions (Period Comparison)
+### Page 4 - Edit Interactions (Period Comparison)
 - User-driven comparison tool — select **any two time periods** and compare their Sales side by side
 - Built using Power BI's Edit Interactions feature with dynamic slicers
 - Enables flexible, ad-hoc analysis without any fixed date filters
 
-### Page 5 — Table Visual (Fact Table Detail)
+### Page 5 - Table Visual (Fact Table Detail)
 - Full granular view of the underlying **Fact Sales table**
 - Columns: Date, Customer, Product, Promotion, Units Sold, Price Per Unit, Total Sales, Discount %, Discount Value, Net Sales
 - Filterable by **Product, Date, Customer ID, and Promotion Category** using visual-level filters
@@ -137,7 +137,7 @@ ElectroHub/
 
 ## 👤 Author
 
-**Amit Y**
+**Amit Yadav**
 
 Built as part of a Power BI learning project covering real-world retail analytics scenarios.
 
@@ -149,7 +149,7 @@ Built as part of a Power BI learning project covering real-world retail analytic
 
 MIT License
 
-Copyright (c) 2025 Amit Y
+Copyright (c) 2025 Amit Yadav
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
