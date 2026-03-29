@@ -28,21 +28,19 @@ ElectroHub/
 ## 🖼️ Screenshots
 
 ### Page 1 — Overview
-![Overview](screenshots/01_overview.png)
+![Overview](screenshots/Overview.png)
 
 ### Page 2 — Top/Bottom 5 Analysis
-![Top Bottom 5](screenshots/02_top_bottom_5.png)
+![Top Bottom 5](screenshots/Top%20Bottom%205.png)
 
 ### Page 3 — Comparison (Sales / Profit / Quantity)
-![Comparison](screenshots/03_comparison.png)
+![Comparison](screenshots/Comparison.png)
 
 ### Page 4 — Edit Interactions (Period Comparison)
-![Edit Interactions](screenshots/04_edit_interactions.png)
+![Edit Interactions](screenshots/Period%20Comparison.png)
 
 ### Page 5 — Table Visual (Fact Table Detail)
-![Table Visual](screenshots/05_table_visual.png)
-
-> 📌 *To activate: create a folder named `screenshots` in your GitHub repo, then upload your 5 PNG snapshots with exactly these filenames — the images will automatically appear here.*
+![Table Visual](screenshots/Table%20Visual.png)
 
 ---
 
